@@ -1,0 +1,14 @@
+body {
+    background-color: black;
+    color: white;
+}
+
+#titleLocadora {
+    color: RED;
+}
+
+img {
+    display: inline-block;
+    border: 1px white solid;
+    width: 230px;
+}
